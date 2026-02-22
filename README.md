@@ -22,4 +22,4 @@ vless://d2caa3e6-fed2-11f0-9acd-0242ac110002@se1.cyphervpn.pro:443?mode=auto&pat
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&sid=68abb912e89c95bd#🇫🇷 Франция 
 
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@anti.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🟢Запуск WhatsApp
+vless://239ac661-ef9d-408d-892d-7eabd7a68abb@anti.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇵🇰Запуск  WhatsApp
