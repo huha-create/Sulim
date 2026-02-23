@@ -6,7 +6,7 @@ vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@estonia.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=estonia.youtuber-vps.com&sid=b95d09fc94955ba4#🇪🇪 Эстония 
 
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@us.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇺🇸 Америка 
+vless://e7349a40-05c5-11f1-ba9e-0242ac110002@ru3.cyphervpn.pro:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=rDCQJSI2SHPoINQrOwE0VNawMdpQiCvsoUpunC3dGko&fp=firefox&spx=%2F&allowinsecure=0&type=xhttp&sni=web.max.ru&sid=5bfa0c#🇷🇺 Москва 
 
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@niderus.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇳🇱 Нидерланды
 
