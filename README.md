@@ -1,8 +1,8 @@
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🚀
 
-#profile-web-page-url : На 1 устройство. до включения нажмите обновить 🔄
-#subscription-userinfo: expire=1740787200
+#profile-notice: На 1 устройство. до включения нажмите обновить 🔄.
 
+#subscription-userinfo: expire=1740787200
 
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺Ютуб WhatsApp Inst
 
