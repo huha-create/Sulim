@@ -1,6 +1,6 @@
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🚀
 
-#profile-notice: На 1 устройство. до включения нажмите обновить 🔄.
+#profile-notice : На 1 устройство. до включения нажмите обновить 🔄.
 
 #subscription-userinfo: expire=1740787200
 
