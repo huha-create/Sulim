@@ -1,6 +1,6 @@
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🚀
 
-#profile-update-interval:6
+#profile-update-interval:1
 
 vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast188.visi.rip:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇷🇺Ютуб WhatsApp Inst
 
