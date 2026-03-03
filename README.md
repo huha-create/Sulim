@@ -2,9 +2,9 @@
 
 #profile-update-interval:6
 
-vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺Ютуб WhatsApp Inst
+vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast188.visi.rip:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇷🇺Ютуб WhatsApp Inst
 
-vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺Ютуб  WhatsApp Inst
+vless://e3864be5-4667-4e66-a4fa-9ef241c83593@sber1.hutsharing.com:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇷🇺Ютуб  WhatsApp Inst
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@estonia.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=estonia.youtuber-vps.com&sid=b95d09fc94955ba4#🇪🇪 Эстония 
 
@@ -24,4 +24,4 @@ vless://e3864be5-4667-4e66-a4fa-9ef241c83593@83814729441772311520.sber.roscomsos
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&sid=68abb912e89c95bd#🇫🇷 Франция 
 
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@anti.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇵🇰 Запуск  WhatsApp
+vless://4b8d38f4-fe27-4c68-a81e-6eab88d2f747@ya8093.memeplanet.org:443?security=reality&encryption=none&pbk=fwP6TEOO-QKP_cmGoInaGhZEPb5YgMNhj0N3Hpbqwww&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=80b00e6b60633608#🇵🇰 Запуск  WhatsApp
