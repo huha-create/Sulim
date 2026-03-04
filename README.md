@@ -12,7 +12,7 @@ vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast169.visi.rip:443?security=reali
 
  vless://c50fc6d2-f1cb-4a74-9425-b1bed445519f@de.vpn.tgflovv.ru:80?security=none&encryption=none&host=de.vpn.tgflovv.ru&headerType=http&type=tcp#🇳🇱 Нидерланды
 
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@64.188.93.247:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F 
+ vless://c50fc6d2-f1cb-4a74-9425-b1bed445519f@de.vpn.tgflovv.ru:80?type=tcp&headerType=http&host=de.vpn.tgflovv.ru&path=/bxKDUY3IIY9FlQex99hd4A&security=none#🇵🇱 Польша
 
 vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@yt3.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yt3.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Латвия
 
