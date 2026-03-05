@@ -40,7 +40,7 @@ vless://50b5d92c-7ca3-4895-845d-c0e6036315be@estonia.youtuber-vps.com:443?securi
 
 vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast169.visi.rip:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇷🇺 Москва 
 
-hysteria2://c50fc6d2-f1cb-4a74-9425-b1bed445519f@vpn.tgflovv.ru:36873?obfs=salamander&obfs-password=uUpjpRk6HbQ2M&type=hysteria&mport&security=tls&sni=vpn.tgflovv.ru&alpn=h3&allowInsecure=1#🇳🇱 Нидерланды
+vless://50b5d92c-7ca3-4895-845d-c0e6036315be@yt3.youtuber-vps.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yt3.youtuber-vps.com&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&sid=b95d09fc94955ba4#🇳🇱 Нидерланды
 
  vless://c50fc6d2-f1cb-4a74-9425-b1bed445519f@de.vpn.tgflovv.ru:80?type=tcp&headerType=http&host=de.vpn.tgflovv.ru&path=/bxKDUY3IIY9FlQex99hd4A&security=none#🇵🇱 Польша
 
