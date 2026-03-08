@@ -1,6 +1,6 @@
 #profile-title:𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🚀
 
-#profile-update-interval: 12
+#profile-update-interval: 2
 
 #profile-subscription-url: https://raw.githubusercontent.com/huha-create/Sulim/main/README.md
 
@@ -29,6 +29,8 @@
 #profile-prefer-ipv4: true
 
 #auto-continue: true
+
+#announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
 
 
 
