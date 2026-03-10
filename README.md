@@ -52,7 +52,7 @@ vless://50b5d92c-7ca3-4895-845d-c0e6036315be@lv.youtuber-vps.com:443?security=re
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@frankfurt-1.bexum.fun:8443?security=reality&encryption=none&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e5fa9569c4d0cb5e#🇩🇪 Германия
 
-vless://e3864be5-4667-4e66-a4fa-9ef241c83593@83814729441772311520.sber.roscomsosal.de:22842?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇯🇵 Япония
+vless://f10e302f-4164-44bd-a551-faa4a47f59e2@fi.vz-or.com:443?security=reality&sni=sun9-36.userapi.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&flow=xtls-rprx-vision&type=tcp#🇯🇵 Япония
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&sid=68abb912e89c95bd#🇫🇷 Франция 
 
