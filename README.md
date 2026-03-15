@@ -32,7 +32,7 @@
 
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
 
-vless://0D306657-DBED-4747-8E14-98375DCD5538@144.31.248.216:8443?security=reality&sni=yandex.net&fp=chrome&pbk=-e5wReDbPj_HAjgxGWiSl2aGoq-pJOgeJs5aBbLttz0&sid=46122211049ad30f&type=tcp&flow=xtls-rprx-vision#🇵🇱 Польша основа
+vless://fad356bf-3d65-40aa-91ff-b4b8217ab7e3@n10.robotturbo.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EVyNin-h6BM0oliuXAHSxFWAsmmQswkc6NpNzCYWTH0&sid=31c1cf85b5c822d7#TurboVPN
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@bero-1.bexum.fun:9443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bero-1.bexum.fun#🇩🇪 Германия 1
 vless://9abf9451-dac0-4403-ae33-16433244807c@de-bex-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&sid=68abb912e89c95bd#🇩🇪 Германия 2
