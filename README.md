@@ -78,11 +78,6 @@ vless://1a0435f1-d3b3-4be3-adad-a65b665ec03a@45.138.51.206:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd2NCeHZNZ3FzcDVtVFhDNG5qVi1Tb2FBREtFQmJWdA%3D%3D@87.120.187.107:9999#🇧🇬 Болгария 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd2NCeHZNZ3FzcDVtVFhDNG5qVi1Tb2FBREtFQmJWdA==@87.120.187.107:9999#🇧🇬 Болгария 2
 
-vless://50b5d92c-7ca3-4895-845d-c0e6036315be@yt.youtuber-vps.com:443?security=reality&encryption=none&pbk=8H6MokHnFnxNRzJzsuGwKdkiRjmLpf6gPVaNovVKzks&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yt.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Латвия 1
-vless://50b5d92c-7ca3-4895-845d-c0e6036315be@yt3.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yt3.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Латвия 2
-vless://50b5d92c-7ca3-4895-845d-c0e6036315be@lv.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Латвия 3
-vless://50b5d92c-7ca3-4895-845d-c0e6036315be@spis10.youtuber-vps.com:443?security=reality&encryption=none&pbk=e1jlO5t9vYwJ-8op2UsTGnjEy-ED4KIMS5md5Oo4GyE&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=spis10.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Латвия 4
-vless://50b5d92c-7ca3-4895-845d-c0e6036315be@expat.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=expat.youtuber-vps.com&sid=b95d09fc94955ba4#🇱🇻 Латвия 5
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@sw-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=sw-1.bexum.fun&sid=68abb912e89c95bd#🇸🇪 Швеция 1
 
