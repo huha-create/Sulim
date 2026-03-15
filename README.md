@@ -1,6 +1,6 @@
 #profile-title:𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🚀
 
-#profile-update-interval: 2
+#profile-update-interval: 1
 
 #profile-subscription-url: https://raw.githubusercontent.com/huha-create/Sulim/main/README.md
 
