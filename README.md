@@ -76,21 +76,13 @@ vless://9abf9451-dac0-4403-ae33-16433244807c@poland-1.bexum.fun:443?security=rea
 
 trojan://bQTLp0uCdjHHHTYHNrJ6NWdJ0bbF72@ch-2.bexum.fun:443?security=tls&headerType=none&type=tcp&sni=ch-2.bexum.fun#🇨🇭 Швейцария 1
 
-vless://9abf9451-dac0-4403-ae33-16433244807c@ch-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=ch-1.bexum.fun&sid=5dd747e98058584b#🇨🇭 Швейцария 2
+
 
 trojan://bQTLp0uCdjHHHTYHNrJ6NWdJ0bbF72@ch-2.bexum.fun:443?security=tls&headerType=none&allowinsecure=0&type=tcp&sni=ch-2.bexum.fun#🇨🇭 Швейцария 3
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@us-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=us-1.bexum.fun&sid=4270b1ce3783864e#🇺🇸 США 1
 
-vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@s1-api.qeunso.com:8443?security=reality&encryption=none&pbk=sBk_P1d8a9q1R6U4HsXH6tumSnL2ron0UJsB1SCTZwo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=shiftline.xyz&sid=e896a919e26a40a3#🇺🇸 США 2
 
-vless://a4e3bd0a-99b0-4ce4-bf8b-75a0856a2be0@144.31.248.216:8443?security=reality&encryption=none&pbk=-e5wReDbPj_HAjgxGWiSl2aGoq-pJOgeJs5aBbLttz0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=46122211049ad30f#🇺🇸 США 3
-
-vless://a4e3bd0a-99b0-4ce4-bf8b-75a0856a2be0@144.31.111.135:8443?security=reality&encryption=none&pbk=-e5wReDbPj_HAjgxGWiSl2aGoq-pJOgeJs5aBbLttz0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=46122211049ad30f#🇺🇸 США 4
-
-vless://cdd1e473-8a5b-4d84-80f3-b2c60580dc21@167.17.40.250:443?security=reality&encryption=none&pbk=zKNLd4OgOLAk7UwGvgya4AaoA1-yFrtnKHuTzO_Aj04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com#🇺🇸 США 5
-
-vless://cdd1e473-8a5b-4d84-80f3-b2c60580dc21@167.17.40.250:443?security=reality&encryption=none&pbk=zKNLd4OgOLAk7UwGvgya4AaoA1-yFrtnKHuTzO_Aj04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com#🇺🇸 США 6
 
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 Россия 1
 
