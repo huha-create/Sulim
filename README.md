@@ -34,21 +34,6 @@
 
 
 
-vless://9abf9451-dac0-4403-ae33-16433244807c@bero-1.bexum.fun:9443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bero-1.bexum.fun#🇩🇪 Германия 1
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@de-bex-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&sid=68abb912e89c95bd#🇩🇪 Германия 2
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@de1.bexum.fun:8443?security=reality&encryption=none&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e5fa9569c4d0cb5e#🇩🇪 Германия 3
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@frankfurt-1.bexum.fun:8443?security=reality&encryption=none&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e5fa9569c4d0cb5e#🇩🇪 Германия 4
-
-vless://223939ef-9519-435d-977c-0068cd33f26f@vdsc-ger1-vtt.vtime.pro:443?security=tls&encryption=none&alpn=http/1.1&headerType=none&allowinsecure=0&type=tcp&sni=vdsc-ger1-vtt.vtime.pro#🇩🇪 Германия 5
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@de-bex-1.bexum.fun:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&sid=68abb912e89c95bd#🇩🇪 Германия 6
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@de1.bexum.fun:8443?security=reality&encryption=none&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e5fa9569c4d0cb5e#🇩🇪 Германия 7
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@frankfurt-1.bexum.fun:8443?security=reality&encryption=none&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e5fa9569c4d0cb5e#🇩🇪 Германия 8
 
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@nl-3.bexum.fun:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-3.bexum.fun#🇳🇱 Нидерланды 1
