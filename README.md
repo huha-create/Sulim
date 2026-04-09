@@ -35,8 +35,8 @@
 
 
 
-vless://e810f663-5ceb-4262-98c3-6157058afe58@nl-3.bexum.fun:443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl-3.bexum.fun#🇵🇰 WhatsApp 1
-vless://e810f663-5ceb-4262-98c3-6157058afe58@bero-2.bexum.fun:9443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=bero-2.bexum.fun#🇵🇰 WhatsApp 2
+vless://98d16bc6-564b-4134-b4e7-20f389237a93@f3.biglocal.club:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=f3.biglocal.club&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#🇵🇰 WhatsApp 1
+vless://98d16bc6-564b-4134-b4e7-20f389237a93@f3.biglocal.club:8080?type=xhttp&host=&path=/&mode=auto&extra=%257B%250A%2520%2520%2522noGRPCHeader%2522%2520:%2520false,%250A%2520%2520%2522scMaxConcurrentPosts%2522%2520:%2520100,%250A%2520%2520%2522scMaxEachPostBytes%2522%2520:%25201000000,%250A%2520%2520%2522scMinPostsIntervalMs%2522%2520:%252030,%250A%2520%2520%2522xPaddingBytes%2522%2520:%2520%2522100-1000%2522%250A%257D&security=reality&fp=chrome&sni=ozon.ru&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#BigVPN%20%F0%9F%A9%B9%20%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9%20Active#🇵🇰 WhatsApp 2
 vless://e810f663-5ceb-4262-98c3-6157058afe58@bero-3.bexum.fun:9443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#🇵🇰 WhatsApp 3
 
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@217.18.62.163:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=m.vk.ru&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&sid=8ac77e6b777376c8&spx=/#%F0%9F%87%B7%F0%9F%87%BA%D0%90%D0%BD%D1%82%D0%B8%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20YouTube%201
