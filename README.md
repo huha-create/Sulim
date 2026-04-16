@@ -33,7 +33,7 @@
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡 Перепродажа или передача ключа делаю Харамом ‼️
 
 
-vless://c27edd52-f249-4460-bfee-bdd3e29c0b3f@a.itxserver.space:443?mode=packet-up&path=%2F&security=reality&encryption=none&extra=%7BscMaxEachPostBytes%3D1000000.0%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20xPaddingBytes%3D100-1000%2C%20noGRPCHeader%3Dfalse%7D&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&host=itxserver.space&fp=chrome&type=xhttp&sni=spotify.com#🇪🇺 авто-выбор # 1
+
 
 vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@193.124.67.215:443?encryption=none&security=reality&sni=cdn.kwork.com&fp=chrome&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&sid=e88606e9&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%E2%84%961
 vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@217.26.31.206:443?encryption=none&security=reality&sni=cdn.kwork.com&fp=chrome&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&sid=e88606e9&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA%20%E2%84%962
