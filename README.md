@@ -1,9 +1,10 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-title: Sulim vpn 🚀
 #profile-update-interval: 1
-#announce:Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms! Передачу или перепродажу ключа делаю Харамом❗️
+#announce:Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
+happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
