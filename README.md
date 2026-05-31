@@ -6,11 +6,11 @@
 #support-url: https://wa.me/79639864491
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
-hysteria2://5d77102f-e8eb-482e-95ea-f67181c9211c@2.26.96.235:4443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=&alpn=h3&allowInsecure=1#Ключ удаляеться 
+vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@89.110.73.91:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=%2Fws#Ключ удаляеться 
 
-hysteria2://5d77102f-e8eb-482e-95ea-f67181c9211c@87.58.201.220:4443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=&alpn=h3&allowInsecure=1#через 2 дня, для покупки👇🏻
+vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@89.124.115.184:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=%2Fws#через 2 дня, для покупки👇🏻
 
-hysteria2://5d77102f-e8eb-482e-95ea-f67181c9211c@2.26.96.239:443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=&alpn=h3&allowInsecure=1#ватсап 8(963)986-44-91
+vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@95.85.253.57:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=yandex.ru&fp=chrome&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#ватсап 8(963)986-44-91
 
 hysteria2://5d77102f-e8eb-482e-95ea-f67181c9211c@87.58.201.220:443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=&alpn=h3&allowInsecure=1#🇳🇱 Обход сети ⚡️1
 
